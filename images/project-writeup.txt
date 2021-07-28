@@ -1,0 +1,28 @@
+Project Library
+-------------------
+
+Below libraries were upgraded to latest from the starter code.
+
+dependencies
+------------
+"@truffle/contract": "^4.3.26",
+"debug": "^4.3.2",
+"truffle-hdwallet-provider": "^1.0.17",
+"web3": "^1.4.0"
+
+dev dependencies
+-------------
+webpack used to host app locally
+
+"copy-webpack-plugin": "^4.6.0",
+"webpack": "^4.28.1",
+"webpack-cli": "^3.2.1",
+"webpack-dev-server": "^3.1.14"
+
+
+Truffle version and local settings(latest truffle, web, solidity and node)
+-------------------------------
+Truffle v5.4.2 (core: 5.4.2)
+Solidity - 0.8.6 (solc-js)
+Node v14.17.3
+Web3.js v1.4.0
